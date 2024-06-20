@@ -1,4 +1,14 @@
-## Hi there 👋
+## Hello there 👋, I'm Andrew!
+
+I'm a research software engineer working at the Colorado School of Public Health.
+
+My current areas of experience include:
+- 🦠 Predictive modeling for infectious diseases like COVID-19
+- 🧬 Large-scale genetic and protemic analysis
+- 📈 Deep-learning models for temporal data
+- 💻 Cloud and high-performance computing
+
+Thanks for stopping by!
 
 <!--
 **Andrew0Hill/Andrew0Hill** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
