@@ -2,10 +2,12 @@
 
 I'm a research software engineer working at the Colorado School of Public Health.
 
-My current areas of experience include:
+My current work includes:
 - 🦠 Predictive modeling for infectious diseases like COVID-19
 - 🧬 Large-scale genetic and protemic analysis
-- 📈 Deep-learning models for temporal data
+- 🫁 Processing and analysis for CT imaging
+- 📋 Machine learning methods for EHR linkage
+- 📈 Deep learning models for time-series data
 - 💻 Cloud and high-performance computing
 
 Thanks for stopping by!
