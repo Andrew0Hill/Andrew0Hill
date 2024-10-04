@@ -1,4 +1,4 @@
-## Hello there 👋, I'm Andrew!
+## About Me
 
 I'm a research software engineer working at the Colorado School of Public Health.
 
