@@ -2,13 +2,16 @@
 
 I'm a research software engineer working at the Colorado School of Public Health.
 
-My current work includes:
-- 🦠 Predictive modeling for infectious diseases like COVID-19
-- 🧬 Large-scale genetic and protemic analysis
-- 🫁 Processing and analysis for CT imaging
-- 📋 Machine learning methods for EHR linkage
-- 📈 Deep learning models for time-series data
-- 💻 Cloud and high-performance computing
+My current work involves:
+- 🧬 Conducting analyses of biobank genomic data
+- 🫁 Development of automated processing pipelines for lung radiomics (CT) imaging data
+- 📋 Development of NLP methods to extract relevant information from free-text EHR notes
+
+My personal interests include:
+- 💻 Programming language design and implementation
+- 📈 Creating tools for HPC/Cluster systems
+- 📱 Mobile app development (iOS/Flutter)
+- 🎸 Tinkering with small Guitar/MIDI/audio-related projects
 
 Thanks for stopping by!
 
