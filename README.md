@@ -1,6 +1,6 @@
 ## About Me
 
-I'm a research software engineer working at the Colorado School of Public Health.
+My name is Andrew, and I'm a research software engineer at the Colorado School of Public Health.
 
 My current work involves:
 - 🧬 Conducting analyses of biobank genomic data
@@ -13,7 +13,7 @@ My personal interests include:
 - 📱 Mobile app development (iOS/Flutter)
 - 🎸 Tinkering with small Guitar/MIDI/audio-related projects
 
-Thanks for stopping by!
+Thanks for dropping by!
 
 <!--
 **Andrew0Hill/Andrew0Hill** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
