@@ -1,10 +1,13 @@
 ## About Me
 
-My name is Andrew, and I'm a research software engineer at the Colorado School of Public Health.
+My name is Andrew, and I'm a research software engineer working for [CIDA](https://coloradosph.cuanschutz.edu/research-and-practice/centers-programs/cida) in the Colorado School of Public Health.
+
+I've h
 
 My current work involves:
 - 🧬 Conducting analyses of biobank genomic data
-- 🫁 Development of automated processing pipelines for lung radiomics (CT) imaging data
+- 🦠 Modeling the spread of COVID-19 and long-term effects of COVID-19 infections (Long COVID)
+- 🫁 Building automated pipelines for lung radiomics (CT) imaging data
 - 📋 Development of NLP methods to extract relevant information from free-text EHR notes
 
 My personal interests include:
