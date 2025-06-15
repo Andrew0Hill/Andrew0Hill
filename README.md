@@ -2,7 +2,7 @@
 
 My name is Andrew, and I'm a research software engineer working for [CIDA](https://coloradosph.cuanschutz.edu/research-and-practice/centers-programs/cida) in the Colorado School of Public Health.
 
-I'm passionate about building software and tools that enable high-quality health research, and so far I've been lucky enough to have a career doing just that. 
+I'm passionate about building software, models, and tools that enable high-quality health research, and so far I've been lucky enough to build a career doing just that. 
 
 ### 💼 Current Work:
 - 🧬 Conducting analyses of biobank genomic data
